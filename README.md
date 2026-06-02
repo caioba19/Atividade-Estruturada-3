@@ -1,6 +1,7 @@
 # 📚 Atividade Estruturada 3 — Pilhas Sequenciais em C
 
-> **Disciplina:** Estrutura de Dados  
+> **Disciplina:** Estrutura de Dados
+> **Aluno:** Caio Vinicius
 > **Curso:** Análise e Desenvolvimento de Sistemas  
 > **Tema:** Implementação de pilhas sequenciais e suas aplicações práticas
 
